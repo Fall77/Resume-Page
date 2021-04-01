@@ -380,7 +380,6 @@ p {
 /* Projects section */
 .project-img, .project-info{
 	border-radius: 20px;
-	border: 2px solid aquamarine;
 }
 #projects .projects {
 	flex-direction: column;
