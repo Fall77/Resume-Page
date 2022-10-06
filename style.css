@@ -603,15 +603,20 @@ p {
 	}
 	#projects .project-item {
 		height: 400px;
-		margin: 0;
+		margin: 3px;
 		width: 100%;
 		border-radius: 0;
+		padding: 3px;
 	}
 	#projects .all-projects .project-info {
 		height: 100%;
+		width: 100%;
+    	margin: 5px;
 	}
 	#projects .all-projects .project-img {
 		height: 100%;
+		width: 100%;
+    	margin: 5px;
 	}
 	/* End Project */
 
