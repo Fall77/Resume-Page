@@ -719,8 +719,10 @@ p {
 }
 /* End  Media Query For Desktop */
 /*media query for cellphones*/
+	/*Patente pendiente
 	@media screen and (max-width: 500px){
 		#main{ 
 
 		}
 	}
+	*/
