@@ -416,7 +416,7 @@ p {
 	justify-content: center;
 	flex-direction: column;
 	background-color: #0cbaba;
-	background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);	
+	background-image: linear-gradient(315deg, #e0f00a 0%, #5ef00a 74%);	
 	color: white;
 }
 #projects .project-info h1 {
@@ -491,7 +491,7 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid #33ccff;
+	border: 7px solid #33ff55;
 	z-index: -1;
 }
 
@@ -641,7 +641,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid#33ccff;
+		border: 10px solid#33ff55;
 	}
 	#about .col-right {
 		text-align: left;
