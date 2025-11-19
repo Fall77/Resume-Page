@@ -41,7 +41,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: #33ccff;
+	color: #33ff55;
 }
 
 .cta {
@@ -49,7 +49,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid #33ccff;
+	border: 2px solid #33ff55;
 	border-radius: 20px;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -60,14 +60,14 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: #33ccff;
+	background-color: #33ff55;
 }
 .brand h1 {
 	font-size: 3rem;
 	color: white;
 }
 .brand h1 span {
-	color: #33ccff;
+	color: #33ff55;
 }
 
 /* Header section */
@@ -143,7 +143,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: #33ccff;
+	color: #33ff55;
 }
 #header .hamburger {
 	height: 60px;
@@ -573,7 +573,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: #33ccff;
+		color: #33ff55;
 		font-weight: 500;
 	}
 }
